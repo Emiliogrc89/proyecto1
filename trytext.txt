@@ -1,0 +1,1 @@
+Es un archivo hecho para observar el uso de rm y reset
